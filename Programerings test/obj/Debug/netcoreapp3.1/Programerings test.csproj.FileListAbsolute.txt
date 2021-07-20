@@ -1,0 +1,12 @@
+/Users/thomasnissen/Desktop/Programerings test/bin/Debug/netcoreapp3.1/Programerings test.deps.json
+/Users/thomasnissen/Desktop/Programerings test/bin/Debug/netcoreapp3.1/Programerings test.runtimeconfig.json
+/Users/thomasnissen/Desktop/Programerings test/bin/Debug/netcoreapp3.1/Programerings test.runtimeconfig.dev.json
+/Users/thomasnissen/Desktop/Programerings test/bin/Debug/netcoreapp3.1/Programerings test.dll
+/Users/thomasnissen/Desktop/Programerings test/bin/Debug/netcoreapp3.1/Programerings test.pdb
+/Users/thomasnissen/Desktop/Programerings test/obj/Debug/netcoreapp3.1/Programerings test.csprojAssemblyReference.cache
+/Users/thomasnissen/Desktop/Programerings test/obj/Debug/netcoreapp3.1/Programerings test.AssemblyInfoInputs.cache
+/Users/thomasnissen/Desktop/Programerings test/obj/Debug/netcoreapp3.1/Programerings test.AssemblyInfo.cs
+/Users/thomasnissen/Desktop/Programerings test/obj/Debug/netcoreapp3.1/Programerings test.csproj.CoreCompileInputs.cache
+/Users/thomasnissen/Desktop/Programerings test/obj/Debug/netcoreapp3.1/Programerings test.dll
+/Users/thomasnissen/Desktop/Programerings test/obj/Debug/netcoreapp3.1/Programerings test.pdb
+/Users/thomasnissen/Desktop/Programerings test/obj/Debug/netcoreapp3.1/Programerings test.genruntimeconfig.cache
